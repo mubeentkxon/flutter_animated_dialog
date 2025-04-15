@@ -8,13 +8,24 @@ Dialog barrier include status bar at the top of screen, solved the problem of de
 
 <img src="https://raw.githubusercontent.com/JackJonson/flutter_animated_dialog/master/screenshots/size.gif" width="50%">
 
-
 ## Getting Started
+
+## Null safety
+
+```yaml
+dependencies:
+  flutter_animated_dialog: ^2.0.1
+```
+
+
+## Previous version
 
 ```yaml
 dependencies:
   flutter_animated_dialog: ^1.2.0
 ```
+
+
 
 ```dart
 import 'package:flutter_animated_dialog/flutter_animated_dialog.dart';

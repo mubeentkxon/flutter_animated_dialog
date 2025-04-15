@@ -1,3 +1,13 @@
+## [2.0.1]
+
+Code optimization.
+
+## [2.0.0]
+
+Migrate to null safety.
+Compatible with Flutter 2.0.0.
+Add [barrierColor] param.
+
 ## [1.2.0]
 
 Compatible with Flutter 1.24.
